@@ -14,7 +14,7 @@ const count = ref(0)
   <h2> My name is Josmar Regalado </h2>
 
   <p>
-    I am an software developer currently based in Helsinki.
+    I am a software developer currently based in Helsinki &#127467;&#127470;.
     I  mainly build solutions with
     <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue</a>
     +
